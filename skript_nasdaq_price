@@ -1,0 +1,3 @@
+//LTE - Litecoin
+var price=[];
+price=document.querySelector('body > div.dialog-off-canvas-main-canvas > div > main > div > div.quote-detail-header__container > section > div > div > div > div > div.symbol-page-header__left > div > div.symbol-page-header__pricing.loaded > div.symbol-page-header__pricing-details.symbol-page-header__pricing-details--current.symbol-page-header__pricing-details--increase').innerText;

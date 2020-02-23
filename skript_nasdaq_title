@@ -1,0 +1,4 @@
+//Tittel - bitcoin
+var title=[];
+title=document.querySelector('body > div.dialog-off-canvas-main-canvas > div > main > div > div.quote-detail-header__container > section > div > div > div > div > div.symbol-page-header__left > h1 > span.symbol-page-header__name').innerHTML;
+title;

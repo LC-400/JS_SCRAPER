@@ -1,0 +1,5 @@
+//URL
+//https://www.nasdaq.com/market-activity/cryptocurrency/ltc
+var url=[];
+url=document.URL;
+url;

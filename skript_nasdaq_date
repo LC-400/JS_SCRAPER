@@ -1,0 +1,4 @@
+//data-date
+var dato=[];
+dato=document.querySelector('body > div.dialog-off-canvas-main-canvas > div > main > div > div.quote-detail-header__container > section > div > div > div > div > div.symbol-page-header__left > div > div.symbol-page-header__pricing.loaded > div.symbol-page-header__timestamp > span').innerText;
+dato;

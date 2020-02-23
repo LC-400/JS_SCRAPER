@@ -1,0 +1,3 @@
+var news=[];
+news=document.querySelector('body > div.dialog-off-canvas-main-canvas > div > main > div > div.quote-detail-header__container > section > div > div > div > div > div.symbol-page-header__timely-content-container').innerText;
+news;
